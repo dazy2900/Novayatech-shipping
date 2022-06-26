@@ -47,7 +47,7 @@ CREATE TABLE `quotes` (
 --
 
 INSERT INTO `quotes` (`id`, `name`, `depature_city`, `destination_city`, `fixed_category`, `total_weight`, `dimension`, `email`, `phone`, `category`, `message`) VALUES
-(4, 'Xodex', 'Lagos', 'Lagos', 'Freighting Shipping', 23, 43, 'Obajemusa@gmail.com', '07038914461', 'Incoterms', 'test 3');
+(4, 'Xodex', 'Lagos', 'Lagos', 'Freighting Shipping', 23, 43, 'Adedayo@gmail.com', '07038914461', 'Incoterms', 'test 3');
 
 --
 -- Indexes for dumped tables
